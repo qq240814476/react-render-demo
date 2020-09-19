@@ -4,7 +4,7 @@ const rootHostContext = {};
 const childHostContext = {};
 
 /**
- * 
+ * reconciler 配置项
  */
 const hostConfig: any = {
   // 获取 root 的 context
